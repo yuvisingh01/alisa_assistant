@@ -1,1 +1,0 @@
-const openAISecretKey='YOUR_SECRET_API_KEY';
