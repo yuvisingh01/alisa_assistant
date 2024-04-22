@@ -1,0 +1,1 @@
+ D:\\app_development\\voice_assistant\\voice_assistant\\alisa\\.dart_tool\\flutter_build\\39c6de028fbdba6e8f1f202fcf247fe8\\native_assets.yaml: 
