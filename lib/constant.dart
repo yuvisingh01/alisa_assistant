@@ -1,0 +1,1 @@
+const openAISecretKey='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';
